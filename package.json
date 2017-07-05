@@ -14,6 +14,7 @@
   "readme": "A bare bones Tessel 2 blinky script.",
   "dependencies": {
     "johnny-five": "^0.11.3",
+    "pushover-notifications": "^0.2.4",
     "tessel-io": "^1.0.0"
   }
 }
